@@ -1,0 +1,6 @@
+{
+  "name": "پەلەوەری گەرمیان",
+  "description": "سیستەمی بەڕێوەبردنی کێڵگەی پەلەوەری گەرمیان - کڕین، فرۆشتن، ناردن، مایە، خەرجی و قەرز",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
